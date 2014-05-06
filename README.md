@@ -2,7 +2,7 @@
 
 _iso-8859-3_ is a robust JavaScript implementation of [the iso-8859-3 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-3).
 
-This encoding is known under the following names: csisolatin3, iso-8859-3, iso-ir-109, iso8859-3, iso88593, iso_8859-3, iso_8859-3:1988, l3, latin3, and latin3.
+This encoding is known under the following names: csisolatin3, iso-8859-3, iso-ir-109, iso8859-3, iso88593, iso_8859-3, iso_8859-3:1988, l3, and latin3.
 
 ## Installation
 
