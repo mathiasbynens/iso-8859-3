@@ -1,4 +1,4 @@
-/*! https://mths.be/iso-8859-3 v1.0.2 by @mathias | MIT license */
+/*! https://mths.be/iso-8859-3 v1.1.0 by @mathias | MIT license */
 ;(function() {
 
 	const stringFromCharCode = String.fromCharCode;
@@ -102,7 +102,7 @@
 			'l3',
 			'latin3'
 		],
-		version: '1.0.2',
+		version: '1.1.0',
 	};
 
 	module.exports = iso88593;
