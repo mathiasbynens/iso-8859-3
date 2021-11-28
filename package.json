@@ -34,8 +34,10 @@
 	"bugs": "https://github.com/mathiasbynens/iso-8859-3/issues",
 	"files": [
 		"LICENSE-MIT.txt",
-		"iso-8859-3.mjs"
+		"iso-8859-3.mjs",
+		"iso-8859-3.d.ts"
 	],
+	"types": "iso-8859-3.d.ts",
 	"scripts": {
 		"download": "curl https://encoding.spec.whatwg.org/index-iso-8859-3.txt > data/index.txt",
 		"build": "node scripts/transform-data.js",
